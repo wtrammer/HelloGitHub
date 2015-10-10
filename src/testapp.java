@@ -4,7 +4,7 @@ public class testapp {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			
-		int wert = 50;
+		int wert = 60;
 		
 		int i = 2;
 		
